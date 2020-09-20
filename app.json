@@ -1,4 +1,7 @@
 {
+  "name": "node-workers-example",
+  "description": "Node workers example",
+  "repository": "https://github.com/sriniraopdev/node-workers-example",
   "addons": [
     "heroku-redis"
   ]
